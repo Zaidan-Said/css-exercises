@@ -1,0 +1,23 @@
+/* class */
+.odd{
+    background-color: #ff000050;
+
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* id */
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+#three{
+    font-size: 24px;
+}
+
+#four{
+    background-color: rgba(18, 179, 18, 0.603);
+    font-size: 24px;
+    font-weight: bold;
+}
+
